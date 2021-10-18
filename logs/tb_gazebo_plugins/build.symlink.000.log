@@ -1,7 +1,0 @@
-Warning: Cannot symlink from /home/user/catkin_ws/devel/.private/tb_gazebo_plugins/local_setup.sh to existing file /home/user/catkin_ws/devel/./local_setup.sh
-Warning: Source hash: 4365cd541aeeea4fb230994bc5fb3667
-Warning: Dest hash: cf17b531d30c60eab159ab2efe9f19d7
-Symlinking /home/user/catkin_ws/devel/lib/libgazebo_ros_kobuki.so
-Symlinking /home/user/catkin_ws/devel/lib/pkgconfig/tb_gazebo_plugins.pc
-Symlinking /home/user/catkin_ws/devel/share/tb_gazebo_plugins/cmake/tb_gazebo_pluginsConfig.cmake
-Symlinking /home/user/catkin_ws/devel/share/tb_gazebo_plugins/cmake/tb_gazebo_pluginsConfig-version.cmake

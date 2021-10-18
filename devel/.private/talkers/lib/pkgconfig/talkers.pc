@@ -1,8 +1,0 @@
-prefix=/home/user/catkin_ws/devel/.private/talkers
-
-Name: talkers
-Description: Description of talkers
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

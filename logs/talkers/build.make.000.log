@@ -1,8 +1,0 @@
-[35m[1mScanning dependencies of target subscriber[0m
-[35m[1mScanning dependencies of target publisher[0m
-[ 25%] [32mBuilding CXX object CMakeFiles/publisher.dir/src/publisher.cpp.o[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/subscriber.dir/src/subscriber.cpp.o[0m
-[ 75%] [32m[1mLinking CXX executable /home/user/catkin_ws/devel/.private/talkers/lib/talkers/publisher[0m
-[100%] [32m[1mLinking CXX executable /home/user/catkin_ws/devel/.private/talkers/lib/talkers/subscriber[0m
-[100%] Built target publisher
-[100%] Built target subscriber
