@@ -1,0 +1,8 @@
+Warning: Cannot symlink from /home/user/catkin_ws/devel/.private/talkers/local_setup.sh to existing file /home/user/catkin_ws/devel/./local_setup.sh
+Warning: Source hash: 5cc62515cac668469f2a1e1a2ec08ed0
+Warning: Dest hash: cf17b531d30c60eab159ab2efe9f19d7
+Linked: (/home/user/catkin_ws/devel/.private/talkers/lib/talkers/subscriber, /home/user/catkin_ws/devel/lib/talkers/subscriber)
+Linked: (/home/user/catkin_ws/devel/.private/talkers/lib/talkers/publisher, /home/user/catkin_ws/devel/lib/talkers/publisher)
+Linked: (/home/user/catkin_ws/devel/.private/talkers/lib/pkgconfig/talkers.pc, /home/user/catkin_ws/devel/lib/pkgconfig/talkers.pc)
+Linked: (/home/user/catkin_ws/devel/.private/talkers/share/talkers/cmake/talkersConfig-version.cmake, /home/user/catkin_ws/devel/share/talkers/cmake/talkersConfig-version.cmake)
+Linked: (/home/user/catkin_ws/devel/.private/talkers/share/talkers/cmake/talkersConfig.cmake, /home/user/catkin_ws/devel/share/talkers/cmake/talkersConfig.cmake)
