@@ -1,0 +1,10 @@
+talkers
+/home/user/catkin_ws/devel/.private/talkers/local_setup.zsh /home/user/catkin_ws/devel/./local_setup.zsh
+/home/user/catkin_ws/devel/.private/talkers/cmake.lock /home/user/catkin_ws/devel/./cmake.lock
+/home/user/catkin_ws/devel/.private/talkers/local_setup.sh /home/user/catkin_ws/devel/./local_setup.sh
+/home/user/catkin_ws/devel/.private/talkers/local_setup.bash /home/user/catkin_ws/devel/./local_setup.bash
+/home/user/catkin_ws/devel/.private/talkers/lib/talkers/subscriber /home/user/catkin_ws/devel/lib/talkers/subscriber
+/home/user/catkin_ws/devel/.private/talkers/lib/talkers/publisher /home/user/catkin_ws/devel/lib/talkers/publisher
+/home/user/catkin_ws/devel/.private/talkers/lib/pkgconfig/talkers.pc /home/user/catkin_ws/devel/lib/pkgconfig/talkers.pc
+/home/user/catkin_ws/devel/.private/talkers/share/talkers/cmake/talkersConfig-version.cmake /home/user/catkin_ws/devel/share/talkers/cmake/talkersConfig-version.cmake
+/home/user/catkin_ws/devel/.private/talkers/share/talkers/cmake/talkersConfig.cmake /home/user/catkin_ws/devel/share/talkers/cmake/talkersConfig.cmake

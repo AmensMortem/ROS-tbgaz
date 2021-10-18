@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/install
+
+Name: tb_gazebo
+Description: Description of tb_gazebo
+Version: 2.2.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
